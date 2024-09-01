@@ -23,8 +23,8 @@
 --------------------------------------
 
 ###### 10.100.0.6
-###### Usuario:darley
-###### Senha: Catelecom()123
+###### Usuario:catena
+###### Senha: Caten@()123
 ###### sudo su
 
 ##### MYSQL
