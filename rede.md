@@ -9,7 +9,7 @@
 
 #### HOSPEDEIRO
 ----------------------------
-###### https://10.100.0.2:63
+###### https://10.100.0.2:8006
 ###### Usuario: root Senha:yhvh77
 
 #### SRV-APL
@@ -22,9 +22,9 @@
 #### SRV-DB
 --------------------------------------
 
-###### 10.100.0.7
-###### Usuario:catena
-###### Senha: Caten@()123
+###### 10.100.0.6
+###### Usuario:darley
+###### Senha: Catelecom()123
 ###### sudo su
 
 ##### MYSQL
